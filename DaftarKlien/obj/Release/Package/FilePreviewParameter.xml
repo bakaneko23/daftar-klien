@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ojan" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\ojan\\VS\\DaftarKlien\\DaftarKlien\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\ojan\\VS\\DaftarKlien\\DaftarKlien\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="db-Web.config Connection String" description="" value="server=KOKOJAN-PC\SQLEXPRESS;database=klien;uid=klien;pwd=klien" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\ojan\\VS\\DaftarKlien\\DaftarKlien\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='db']/@connectionString" />
+  </parameter>
+  <parameter name="klienConnectionString-Web.config Connection String" description="" value="Data Source=KOKOJAN-PC\SQLEXPRESS;Initial Catalog=klien;User ID=klien;Password=klien" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\ojan\\VS\\DaftarKlien\\DaftarKlien\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='klienConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

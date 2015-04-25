@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="public.master.cs" Inherits="DaftarKlien._public" %>
+
+<%--<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>--%>
+
+
+
+<!doctype html>
+
+<head>
+   <meta charset='utf-8'>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="css/styles.css">
+   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="script.js"></script>
+    <style type="text/css">
+        #header { align-content:center; height:240px; 
+width:1360px;}
+
+        </style>
+   <title></title>
+</head>
+<body>
+     <div id="header" style="background-image: url('/foto/foto.jpg')"></div>
+<div id='cssmenu'>
+<ul>
+    
+  
+   <li><a href="DaftarKlien.aspx">Daftar Klien</a></li>
+   <li><a href="Login.aspx">Login</a></li>
+    
+   
+</ul>
+</div>
+     <p><asp:ContentPlaceHolder ID="Head" runat="server">
+            
+
+
+
+        </asp:ContentPlaceHolder>
+     <p><asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+
+
+
+        </asp:ContentPlaceHolder>
+        </p>
+    
+    <p><asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            
+
+
+
+        </asp:ContentPlaceHolder>
+        </p>
+</body>
+
+

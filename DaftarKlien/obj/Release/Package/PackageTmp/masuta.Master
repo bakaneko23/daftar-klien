@@ -1,0 +1,56 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masuta.master.cs" Inherits="DaftarKlien.masuta" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    
+    <link rel="stylesheet" href="css/bootstrap-theme.css" />
+    <style type="text/css">
+        #header { height:200px; width:104px padding:10px;background-color:#CCCCCC; }
+
+        .auto-style4 {
+            color: #FFFFFF;
+            background-color: #000000;
+        }
+        .auto-style5 {
+            text-align: center;
+        }
+    </style>
+</head>
+    <nav class="navbar navbar-inverse">
+  <div class="auto-style5">
+   <a href ="Home.aspx"> <span class="auto-style4">Home</span></a>
+   <a href="Edit.aspx"><span class="auto-style4">Edit</span></a>
+   <a href="TambahKlien.aspx"><span class="auto-style4">Tambah Klien</span></a>
+  </div>
+        
+        <div id="header" style="background-image: url('/foto/foto.jpg')"></div>
+            
+</nav>
+<body>
+    
+    <form id="form1" runat="server">
+    <div style="text-align: center">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div style="text-align: center">
+        
+            <p>
+                <span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.3999996185303px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">©Indotech 2015</span></p>
+        
+    </div>
+    </form>
+</body>
+</html>

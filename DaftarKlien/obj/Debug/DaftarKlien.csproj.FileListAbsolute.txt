@@ -1,0 +1,15 @@
+D:\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.dll.config
+D:\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.dll
+D:\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.pdb
+D:\VS\DaftarKlien\DaftarKlien\obj\Debug\DaftarKlien.csprojResolveAssemblyReference.cache
+D:\VS\DaftarKlien\DaftarKlien\obj\Debug\DaftarKlien.dll
+D:\VS\DaftarKlien\DaftarKlien\obj\Debug\DaftarKlien.pdb
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.dll.config
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.dll
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.pdb
+D:\ojan\VS\DaftarKlien\DaftarKlien\obj\Debug\DaftarKlien.dll
+D:\ojan\VS\DaftarKlien\DaftarKlien\obj\Debug\DaftarKlien.pdb
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\Detail.aspx
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\Detail.aspx.cs
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\Detail.aspx.designer.cs
+D:\ojan\VS\DaftarKlien\DaftarKlien\obj\Debug\DaftarKlien.csprojResolveAssemblyReference.cache

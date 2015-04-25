@@ -1,0 +1,9 @@
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.dll.config
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.dll
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\DaftarKlien.pdb
+D:\ojan\VS\DaftarKlien\DaftarKlien\obj\Release\DaftarKlien.csprojResolveAssemblyReference.cache
+D:\ojan\VS\DaftarKlien\DaftarKlien\obj\Release\DaftarKlien.dll
+D:\ojan\VS\DaftarKlien\DaftarKlien\obj\Release\DaftarKlien.pdb
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\Detail.aspx
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\Detail.aspx.cs
+D:\ojan\VS\DaftarKlien\DaftarKlien\bin\Detail.aspx.designer.cs
